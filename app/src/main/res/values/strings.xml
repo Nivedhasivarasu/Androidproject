@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">IV GUIDE APP</string>
+    <string name="description_text"> ABC Company is an Indian multinational information technology(IT) servic and consulting company headquatered in MUmbai,Maharastra,India.It is a subsidary of abc Group and operates in 149 locations across 46 countries.ABC Company is largest Indian company by market capitalization.</string>
+
+
+    <string-array name="Spinner_items">
+        <item>Select College</item>
+        <item>Dr.Mahalingam College of Enginnering and Technology</item>
+        <item>Nachimuthu polytechnic College</item>
+        <item>Kumarakuru College of Enginnering and Technology</item>
+        <item>Anna University College of Enginnering and Technology</item>
+    </string-array>
+
+    <string-array name="Spinner_items1">
+        <item>Select Location</item>
+        <item>coimbatore</item>
+        <item>Chennai</item>
+        <item>thirupur</item>
+        <item>salem</item>
+        <item>Madurai</item>
+
+
+    </string-array>
+
+    <string-array name="Spinner_items12">
+        <item>select dept</item>
+        <item>Information Technology</item>
+        <item>ECE</item>
+        <item>Computer Science</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>Automobile</item>
+
+
+    </string-array>
+    <string-array name="Spinner_items13">
+        <item>select session</item>
+        <item>10.00-11.00</item>
+        <item>11.00-12.00</item>
+        <item>12.00-1.00</item>
+        <item>2.00-3.00</item>
+
+
+    </string-array>
+    <string-array name="Spinner_items22">
+        <item>NAME : Rajana R"\n"COLLEGE : Dr.Mahalingam College of Enginnering and Technology"\n"ROLLNO : 18BIT054"\n"DEPT : Information Technology"\n"EMAIL : rajanaradhakrishnan73@gmail.com"\n"PHNO : 9567487856"\n"COMPANY NAME : i2 Software Tech Solution"\n"DATE : 12-04-2020"\n"NO-OF-STU : 25"\n"SESSION : 11.00-12.00"\n"</item>
+        <item>"\n"NAME : KK"\n"COLLEGE : Dr.Mahalingam College of Enginnering and Technology"\n"ROLLNO : 16BIT010"\n"DEPT : Information Technology"\n"EMAIL : kk@gmail.com"\n"PHNO : 9578563410"\n"COMPANY NAME : Nexus Global Solution"\n"DATE : 12-03-2020"\n"NO-OF-STU : 49"\n"SESSION : 10.00-11.00</item>
+        <item>"\n"NAME : Gokulapriya E"\n"COLLEGE : Dr.Mahalingam College of Enginnering and Technology"\n"ROLLNO : 17CSC78"\n"DEPT : Information Technology"\Computer Sciencen"EMAIL : gokul2000.007@gmail.com"\n"PHNO : 9659160684"\n"COMPANY NAME : g-net solution coimbatore private limited"\n"DATE : 07-05-2020"\n"NO-OF-STU : 25"\n"SESSION : 11.00-12.00"\n"</item>
+        <item>"\n"NAME : Nivedha S"\n"COLLEGE : Dr.Mahalingam College of Enginnering and Technology"\n"ROLLNO : 17BIT022"\n"DEPT : Information Technology"\n"EMAIL : nivedha1320@gmail.com"\n"PHNO : 9488585385"\n"COMPANY NAME : Soliton Technologies Pvt Ltd"\n"DATE : 24-04-2020"\n"NO-OF-STU : 47"\n"SESSION : 2.00-3.00"\n"</item>
+
+    </string-array>
+
+</resources>
